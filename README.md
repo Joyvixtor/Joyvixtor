@@ -23,7 +23,7 @@ Aqui estão algumas tecnologias com as quais já tive experiência em desenvolvi
 <br>
 <h2>Contatos</h2>
 
-<div style="height:50px; display: inline-block; float: left">
+<div style="height:50; display: inline-block; float: left">
 
 <a href="https://www.linkedin.com/in/joaovicmelobez/">
 <img src="https://img.icons8.com/?size=512&id=13930&format=png" alt="logo do linkedin">
