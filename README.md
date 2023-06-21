@@ -8,7 +8,7 @@ No momento, estou estudando para me tornar um desenvolvedor Full Stack e tenho m
 
 <h2>Tecnologias</h2>
 Aqui estão algumas tecnologias com as quais já tive experiência em desenvolvimento dentro ou fora do meio acadêmico:
-<div style="height: 50px; display: inline-block; padding:20px;">
+<div style="height: 50px; display: inline-block; padding:20;">
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="logo do Javascript">
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="logo do HTML">
 <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="logo do CSS">
